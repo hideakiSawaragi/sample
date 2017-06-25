@@ -1,5 +1,5 @@
-def hello
+def helloworld
   p "hello, world."
 end
 
-hello
+helloworld
